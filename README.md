@@ -1,7 +1,7 @@
 # ta-proposal-penelitian-arduino
 Tugas Akhir Bahasa Indonesia - Proposal Individu - Semester 4
 
-## Screenshot
+## Sketch
 
 <img width="auto" height="350" src="./Sketch_export.png">
 
